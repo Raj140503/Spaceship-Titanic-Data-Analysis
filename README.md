@@ -1,5 +1,11 @@
 # Spaceship Titanic Data Analysis
 
+<div align='center'>
+  <img src='https://github.com/user-attachments/assets/72d4d217-4978-489d-b736-5442a2be6184'>
+</div>
+
+<br>
+
 **Tools used:** Python (Numpy, Pandas, Scikit-learn, Matplotlib)
 
 **Content:** Exploratory data analysis, imputing null values, feature engineering, model building and tuning.
